@@ -2,7 +2,7 @@
 
 ## Description
 
-This repository has some files used during the UoL CDT training
+This repository has some files used during the UOL CDT training
 
 ## Author
 Oluwaseun Coker

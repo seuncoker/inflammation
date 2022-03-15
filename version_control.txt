@@ -1,1 +1,1 @@
-This is a tutorial about version control.
+This is a tutorial about version control. This is the next tutorial about using github
